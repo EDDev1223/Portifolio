@@ -7,13 +7,11 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 10px 10px;
     height: 100%;
     width: 100%;
     background-color: #165;
-    border-radius: 20px;
     background: linear-gradient(180deg, #333 0%, #165 );
-    padding: 5px;
+
 }
 
 #animated-text{
